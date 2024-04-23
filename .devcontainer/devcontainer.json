@@ -12,6 +12,13 @@
       "vcpkgroot": "/usr/local/vcpkg",
       "vcpkgdownload": "/usr/local/vcpkg-downloads"
     }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools-extension-pack"
+      ]
+    }
   }
 
   // Features to add to the dev container. More info: https://containers.dev/features.
