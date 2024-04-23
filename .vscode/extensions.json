@@ -1,3 +1,14 @@
 {
-  "recommendations": ["ms-vscode.cpptools-extension-pack"]
+  "recommendations": [
+    "cschlosser.doxdocgen",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "evondev.indent-rainbow-palettes",
+    "llvm-vs-code-extensions.vscode-clangd",
+    "michaelcurrin.auto-commit-msg",
+    "oderwat.indent-rainbow",
+    "redhat.vscode-yaml",
+    "seaube.clangformat",
+    "streetsidesoftware.code-spell-checker"
+  ]
 }

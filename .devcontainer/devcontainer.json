@@ -19,7 +19,15 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "ms-vscode.cpptools-extension-pack"
+        "cschlosser.doxdocgen",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "llvm-vs-code-extensions.vscode-clangd",
+        "MichaelCurrin.auto-commit-msg",
+        "ms-vscode.cpptools-extension-pack",
+        "oderwat.indent-rainbow",
+        "seaube.clangformat",
+        "streetsidesoftware.code-spell-checker"
       ]
     }
   }
