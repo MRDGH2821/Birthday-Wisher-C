@@ -23,6 +23,7 @@
         "oderwat.indent-rainbow",
         "redhat.vscode-yaml",
         "seaube.clangformat",
+        "spmeesseman.vscode-taskexplorer",
         "streetsidesoftware.code-spell-checker"
       ]
     }
