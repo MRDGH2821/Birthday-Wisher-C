@@ -6,12 +6,6 @@
     "dockerfile": "Dockerfile"
   },
   "features": {
-    "ghcr.io/msclock/features/vcpkg:1": {
-      "username": "automatic",
-      "vcpkgversion": "stable",
-      "vcpkgroot": "/usr/local/vcpkg",
-      "vcpkgdownload": "/usr/local/vcpkg-downloads"
-    },
     "ghcr.io/devcontainers-contrib/features/apt-packages": {
       "packages": "build-essential, clangd, clang-format"
     }
