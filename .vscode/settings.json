@@ -19,5 +19,7 @@
   "yaml.schemas": {
     "https://json.schemastore.org/clang-format.json": ".clang-format"
   },
-  "C_Cpp.clang_format_fallbackStyle": "LLVM"
+  "C_Cpp.clang_format_fallbackStyle": "LLVM",
+  "cmake.options.statusBarVisibility": "visible",
+  "cmake.sourceDirectory": "/workspaces/Birthday-Wisher-C"
 }
