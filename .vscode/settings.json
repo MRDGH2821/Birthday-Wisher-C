@@ -18,5 +18,6 @@
   ],
   "yaml.schemas": {
     "https://json.schemastore.org/clang-format.json": ".clang-format"
-  }
+  },
+  "C_Cpp.clang_format_fallbackStyle": "LLVM"
 }
